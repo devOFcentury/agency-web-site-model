@@ -180,11 +180,20 @@ body{
 
 .social-icons img{
     width: 60px;
+    height: 60px;
+    border-radius: 50%;
     transition: 0.5s;
+    margin: 5px;
 }
+
+
+
 .social-icons a:hover img{
     transform: translateY(10px);
 }
+
+
+.social-icons a
                     /*---------------------------footer section-----------------------*/
 
 #footer{
